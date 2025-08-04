@@ -1,0 +1,14 @@
+name: consensus-clustering-hyperactivityAD
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - notebook
+  - ipykernel
